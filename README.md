@@ -25,6 +25,6 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
   <img align="left" alt="Lorenzo's Linkdein" width="28px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
 </a>
 
-<a href="https://gmail.com/borreguerolorenzo@gmail.com">
+<a href="mailto:borreguerolorenzo@gmail.com">
   <img align="left" alt="Lorenzo's mail" width="28px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" />
 </a>
