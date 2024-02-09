@@ -11,11 +11,31 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - Docker
 - Neo4j
 - MongoDB
-- 
+
+<a>
+  <img align="left" alt="AWS" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+</a>
 <a>
   <img align="left" alt="Apache Airflow" width="40px" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" />
 </a>
+<a>
+  <img align="left" alt="Apache Kafka" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
+</a>
+<a>
+  <img align="left" alt="Snowflake" width="40px" src="https://cdn-icons-png.flaticon.com/512/2530/2530064.png" />
+</a>
+<a>
+  <img align="left" alt="Docker" width="40px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+</a>
+<a>
+  <img align="left" alt="Neo4j" width="40px" src="" />
+</a>
+<a>
+  <img align="left" alt="MongoDB" width="40px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+</a>
+
 </br>
+
 
 ### Programming languages 🐍
 
