@@ -4,6 +4,18 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 
 #### Technologies 💻
 
-- Python 
+- AWS (Lambda Functions, EC2, S3, Step Functions, CloudFormation)
+- Apache Airflow
+- Apache Kafka
+- Snowflake
+- Docker
+- Neo4j
+- MongoDB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27lorenzo)](https://github.com/anuraghazra/github-readme-stats)
+### Programming languages 🐍
+
+- Python
+- SQL
+- PySpark
+- Scala
+  
