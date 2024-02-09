@@ -12,7 +12,6 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - Neo4j
 - MongoDB
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kafka,docker,mongodb)](https://skillicons.dev)
 
 ### Programming languages 🐍
 
@@ -21,7 +20,6 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - PySpark
 - Scala
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,scala)](https://skillicons.dev)
   
 ### Contact me ☎️
 
