@@ -11,7 +11,10 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - Docker
 - Neo4j
 - MongoDB
-
+- 
+<a>
+  <img align="left" alt="Apache Airflow" width="40px" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" />
+</a>
 
 ### Programming languages 🐍
 
