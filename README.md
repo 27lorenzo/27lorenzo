@@ -13,7 +13,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - MongoDB
 
 <a>
-  <img align="left" alt="AWS" width="40px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" />
+  <img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
 </a>
 <a>
   <img align="left" alt="Apache Airflow" width="40px" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" />
