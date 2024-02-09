@@ -19,7 +19,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - PySpark
 - Scala
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,scala)](https://skillicons.dev)
   
 ### Contact me ☎️
 
