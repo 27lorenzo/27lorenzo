@@ -19,7 +19,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - PySpark
 - Scala
   
-### Contact me
+### Contact me ☎️
 
 <a href="https://linkedin.com/in/lorenzoborreguero">
   <img align="left" alt="Lorenzo's Linkdein" width="28px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
