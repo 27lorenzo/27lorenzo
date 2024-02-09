@@ -22,9 +22,9 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 ### Contact me
 
 <a href="https://linkedin.com/in/lorenzoborreguero">
-  <img align="left" alt="Lorenzo's Linkdein" width="24px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://i0.wp.com/gmlconsult.com/wp-content/uploads/2021/10/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png?resize=400%2C400&ssl=1)" />
+  <img align="left" alt="Lorenzo's Linkdein" width="24px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
 </a>
 
 <a href="https://gmail.com/borreguerolorenzo@gmail.com">
-  <img align="left" alt="Pavan's Twitter" width="24px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
+  <img align="left" alt="Lorenzo's mail" width="24px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" />
 </a>
