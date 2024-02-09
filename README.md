@@ -13,7 +13,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 - MongoDB
 
 <a>
-  <img align="left" alt="AWS" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+  <img align="left" alt="AWS" width="40px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" />
 </a>
 <a>
   <img align="left" alt="Apache Airflow" width="40px" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" />
@@ -28,7 +28,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
   <img align="left" alt="Docker" width="40px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
 </a>
 <a>
-  <img align="left" alt="Neo4j" width="40px" src="" />
+  <img align="left" alt="Neo4j" width="40px" src="https://w7.pngwing.com/pngs/183/850/png-transparent-graph-database-ibm-gremlin-graph-data-infinitegraph-line.png" />
 </a>
 <a>
   <img align="left" alt="MongoDB" width="40px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
