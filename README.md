@@ -28,7 +28,7 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
   <img align="left" alt="Docker" width="40px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
 </a>
 <a>
-  <img align="left" alt="Neo4j" width="40px" src="https://w7.pngwing.com/pngs/183/850/png-transparent-graph-database-ibm-gremlin-graph-data-infinitegraph-line.png" />
+  <img align="left" alt="Neo4j" width="40px" src="https://static-00.iconduck.com/assets.00/neo4j-icon-452x512-b63ajo4a.png" />
 </a>
 <a>
   <img align="left" alt="MongoDB" width="40px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
