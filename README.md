@@ -22,5 +22,5 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 ### Contact me
 
 ### Contacto
-[![LinkedIn](linkedin_icono.png)](https://www.linkedin.com/in/lorenzoborreguero/)
-[![Gmail](gmail_icono.png)](mailto:borreguerolorenzo@gmail.com)
+[![LinkedIn](https://gmlconsult.com/wp-content/uploads/2021/10/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png)](https://www.linkedin.com/in/lorenzoborreguero/)
+[![Gmail]([gmail_icono.png](https://cdn.iconscout.com/icon/free/png-256/free-gmail-2923657-2416660.png)https://cdn.iconscout.com/icon/free/png-256/free-gmail-2923657-2416660.png)](mailto:borreguerolorenzo@gmail.com)
