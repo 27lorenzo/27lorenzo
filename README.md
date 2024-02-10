@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello there! 👋
 
 <p align="center">
   <img src="https://github.com/27lorenzo/27lorenzo/blob/main/cover_image.png" width="100%" title="Intro Card" alt="Intro Card">
