@@ -8,10 +8,10 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 
 ### Last projets 🔥
 
-- Data pipeline to assess investments in Airbnb and Kamernet with Azure Databricks and PySpark [link] (https://github.com/27lorenzo/AirbnbDatabricksInvestment)
-- Spotify Recommended Songs Playlist Creator with Python and Apache Airflow [link] (https://github.com/27lorenzo/SpotifySongsRecommender)
-- Data pipeline to create Twitter trending topics based on PySpark, MongoDB and NLP [link] (https://github.com/27lorenzo/TwitterTrendData)
-- End-to-end real time data pipeline with Apache Airflow, Apache Kafka and Cassandra [link] (https://github.com/27lorenzo/RealTimeDataStreaming)
+- Data pipeline to assess investments in Airbnb and Kamernet with Azure Databricks and PySpark [link](https://github.com/27lorenzo/AirbnbDatabricksInvestment)
+- Spotify Recommended Songs Playlist Creator with Python and Apache Airflow [link](https://github.com/27lorenzo/SpotifySongsRecommender)
+- Data pipeline to create Twitter trending topics based on PySpark, MongoDB and NLP [link](https://github.com/27lorenzo/TwitterTrendData)
+- End-to-end real time data pipeline with Apache Airflow, Apache Kafka and Cassandra [link](https://github.com/27lorenzo/RealTimeDataStreaming)
 
 ### Technologies 💻
 
