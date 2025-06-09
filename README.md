@@ -4,7 +4,7 @@
   <img src="https://github.com/27lorenzo/27lorenzo/blob/main/cover_image.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer currently working in The Netherlands. I am passionate about exploring and implementing data solutions to solve real-life problems who's always willing to learn and expand his skills across different and emerging techonologies and domains. I have 1+ years of experience as Data Engineer in maintaing cloud infrastructure and implementing enhancements to ETL pipelines. 
+Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer currently working in Spain. I am passionate about exploring and implementing data solutions to solve real-life problems who's always willing to learn and expand his skills across different and emerging techonologies and domains. I have 1+ years of experience as Data Engineer in maintaing cloud infrastructure and implementing enhancements to ETL pipelines. 
 
 ### Last projets 🔥
 
@@ -17,11 +17,10 @@ Hi! Welcome to my Github! My name is Lorenzo and I'm a spanish Data Engineer cur
 
 - AWS (Lambda Functions, EC2, S3, Step Functions, CloudFormation)
 - Apache Airflow
+- Apache NiFi
 - Apache Kafka
-- Snowflake
+- DB: ClickHouse, MongoDB, Neo4j
 - Docker
-- Neo4j
-- MongoDB
 
 <a>
   <img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
